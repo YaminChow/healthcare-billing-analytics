@@ -1,5 +1,5 @@
 # healthcare-billing-analytics
-Add a short summary (e.g., "Power BI executive dashboard analyzing $255M+ in healthcare operations and billing data.").
+Power BI executive dashboard analyzing $255M+ in healthcare operations and billing data
 # 🏥 Healthcare Operations & Billing Analytics Dashboard
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
